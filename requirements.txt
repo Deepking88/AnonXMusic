@@ -10,8 +10,8 @@ heroku3
 motor
 pillow
 psutil
-py-tgcalls==1.2.9
-ntgcalls==1.1.2
+py-tgcalls
+ntgcalls
 pykeyboard
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 python-dotenv
